@@ -1,7 +1,3 @@
-Certainly! Here’s your README text, **with the manifest link formatted and all sections clear**:
-
----
-
 # FoundryVTT Macro Sidebar: Quick Run & Edit Context
 
 This module changes the behavior of the FoundryVTT Macro Sidebar:
