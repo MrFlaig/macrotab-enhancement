@@ -7,7 +7,10 @@
     "minimum": "13",
     "verified": "13"
   },
-  "authors": [{"name": "Your Name"}],
+  "authors": [{"name": "MrFlaig", "url": "https://github.com/MrFlaig"}],
+  "url": "https://github.com/MrFlaig/macrotab-enhancement",
+  "manifest": "https://raw.githubusercontent.com/MrFlaig/macrotab-enhancement/master/module.json",
+  "download": "https://github.com/MrFlaig/macrotab-enhancement/archive/refs/heads/master.zip",
   "esmodules": ["scripts/module.js"],
   "languages": [
     {
