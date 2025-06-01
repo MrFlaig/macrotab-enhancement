@@ -1,0 +1,19 @@
+{
+  "id": "macrotabenhancement",
+  "title": "MacroTab Enhancement",
+  "description": "Enhances the macro sidebar tab: left-click executes, right-click context menu includes Edit for editable macros.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [{"name": "Your Name"}],
+  "esmodules": ["scripts/module.js"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
